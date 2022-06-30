@@ -22,3 +22,6 @@ go.work
 
 # vs code workspace
 .vscode
+
+# environment files
+.env
